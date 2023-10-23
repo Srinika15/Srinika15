@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Srinika15
-- 👀 I’m a School Student
+👋 Hi, I’m @Srinika15
+✨ I’m a School Student
 
 <!---
 Srinika15/Srinika15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
