@@ -1,6 +1,6 @@
 <div align = "center">
  
-  # 👋Hi, I’m [Srinika P](https://github.com/Srinika15) 
+  # 👋Hi, I’m [Srinika P](https://github.com/Srinika15)
 
   ### ✨I’m a School Student with curious to learn and explore new things✨
 
